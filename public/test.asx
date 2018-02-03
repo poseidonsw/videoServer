@@ -1,0 +1,6 @@
+<ASX version ="3.0">
+  <TITLE>Stream1234</TITLE>
+  <ENTRY>
+    <REF HREF="rtsp://mpv.cdn3.bigCDN.com:554/bigCDN/mp4:bigbuckbunnyiphone_400.mp4" />
+  </ENTRY>
+</ASX>

@@ -1,0 +1,14 @@
+{
+  "port" : 1337,
+  "homeTitle" : "Video Server",
+  "cam1": "test.asx",
+  "cam2": "test.asx",
+  "cam3": "test.asx",
+  "cam4": "test.asx",
+  "cams": [
+    {"name": "CAM 1", "stream" : "test.asx"},
+    {"name": "CAM 2", "stream" : "test.asx"},
+    {"name": "CAM 3", "stream": "test.asx"},
+    {"name": "CAM 4", "stream": "test.asx"}
+  ]
+}

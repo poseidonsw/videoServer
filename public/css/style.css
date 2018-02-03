@@ -1,0 +1,42 @@
+body {
+  background-color: rgba(225, 225, 225, 1.0);
+}
+
+.navbar-toggler {
+   border: none;
+}
+
+.container {
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.card {
+  margin-top: 50px;
+  border-width: 1px;
+  border-color: rgba(125, 125, 125, 1.0);
+
+}
+
+embed {
+  width: 100%;
+}
+
+.card-column {
+  max-width: 1080px;
+  margin: 0 auto;
+
+}
+
+
+.footer {
+  height: 25px;
+  color: rgba(125, 125, 125, 1.0);
+}
+
+.footer span {
+  line-height: 25px;
+  font-weight: 100;
+  font-size: 12px;
+
+}

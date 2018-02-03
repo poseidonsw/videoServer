@@ -1,0 +1,18 @@
+
+  {{#each cams}}
+  {{#if @first}}
+     <div class="card-column">
+  {{/if}}
+  <div class="card" style="width: 20rem;">
+    <div class="card-header text-center">
+      {{this.name}}
+    </div>
+    <div class="card-block">
+      <embed src={{this.stream}}>
+    </div>
+  </div>
+  {{{half @index}}}
+  {{#if @last}}
+     </div>
+  {{/if}}
+  {{/each}}
